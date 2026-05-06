@@ -76,7 +76,7 @@ dependency-parser-project/
 ```bash
 # Clone the repository
 git clone <git@github.com:Rakshitha-52/Dependency-Parsing-with-BERT-Implementation.git>
-cd dependency-parser-project
+cd Dependency-Parsing
 
 # Create virtual environment
 python -m venv venv
