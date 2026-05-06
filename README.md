@@ -75,7 +75,7 @@ dependency-parser-project/
 
 ```bash
 # Clone the repository
-git clone <git@github.com:Rakshitha-52/Dependency-Parsing-with-BERT-Implementation.git>
+git clone git@github.com:Rakshitha-52/Dependency-Parsing-with-BERT-Implementation.git>
 cd Dependency-Parsing
 
 # Create virtual environment
